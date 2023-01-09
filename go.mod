@@ -1,4 +1,4 @@
-module password
+module github.com/chawld/password
 
 go 1.19
 
